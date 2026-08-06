@@ -81,3 +81,13 @@ mmd.zram.writeback.max_idle_seconds=86400
 mmd.zram.writeback.min_idle_seconds=0
 mmd.zram.writeback.use_nr_tags_prop=true
 ro.zram_backing_device_min_free_mb=1536
+
+# MistOS
+ro.mist.display=1080 x 2400, OLED, HDR
+ro.mist.battery=4410 mAh
+ro.mist.soc=Google Tensor G1
+ro.mist.camera=12MP + 12MP
+ro.mist.front=8MP
+ro.mist.platform=GS101
+ro.mist.screen=6.1" OLED
+ro.mist.device.name=Google Pixel 6a
